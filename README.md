@@ -9,6 +9,7 @@ Código base desarrollado a lo largo del curso por:
 
 Jose Manuel Lopez Lujan, MIT
 https://github.com/jm66/CS13303
+
 Desarrollado por:
 
 Josué Iván Rodríguez Arámbula
